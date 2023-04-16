@@ -1,0 +1,6 @@
+Fri Apr 14 02:40:43 CST 2023
+Se encendio el GPIO#21
+Sat Apr 15 21:02:36 CST 2023
+Se encendio el GPIO#17
+Sat Apr 15 22:20:45 CST 2023
+Se encendio el GPIO#21

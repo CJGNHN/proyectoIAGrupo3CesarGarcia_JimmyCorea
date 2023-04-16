@@ -1,0 +1,10 @@
+vie 14 abr 2023 02:40:21 CST
+Se apago el GPIO#17
+Fri Apr 14 02:40:45 CST 2023
+Se apago el GPIO#21
+Fri Apr 14 02:41:39 CST 2023
+Se apago el GPIO#27
+Sat Apr 15 21:02:39 CST 2023
+Se apago el GPIO#17
+Sat Apr 15 22:20:49 CST 2023
+Se apago el GPIO#21
